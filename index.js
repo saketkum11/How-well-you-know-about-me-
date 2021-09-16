@@ -37,7 +37,7 @@ var questions = [{
  questionTwo = {
 
   question : "From where I have done my Undergraduation ?",
-  answer : "BIT"
+  answer : "BIT Mesra"
 },
 
   questionThree = {
