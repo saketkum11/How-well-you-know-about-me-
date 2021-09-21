@@ -31,7 +31,7 @@ function play(question , answer){
 var questions = [{
 
   question : "where I do live ?",
-  answer : "Bihar"
+  answer : "Bhagalpur,Bihar"
 },
 
  questionTwo = {
@@ -59,8 +59,8 @@ for( var i = 0 ; i < questions.length ; i++){
   
   var vote = questions[i];
   play(vote.question, vote.answer);
-   console.log("answer = " + vote.answer);
-   console.log("----------");
+   console.log("answer = " +vote.answer);
+  console.log("----------");
   console.log("----------");
 
 }
